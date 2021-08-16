@@ -29,4 +29,10 @@ Part 3:
 ![res](https://user-images.githubusercontent.com/46793013/129557303-dc04f04f-f34b-4ae1-bec7-1937697db4a7.PNG)
 
 
+# Project 3:
+Classifying colon tissue images by using transfer learning. 
+
+### Results: 
+
+![image](https://user-images.githubusercontent.com/46793013/129558327-9132b27a-1013-40a3-8d1b-4ae0d6b28c28.png)
 
